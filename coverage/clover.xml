@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775593814767" clover="3.2.0">
+  <project timestamp="1775593814767" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6" elements="31" coveredelements="31" complexity="0" loc="19" ncloc="19" packages="3" files="3" classes="3"/>
+    <package name="calculator">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="calculator.js" path="/home/kaduri/repos/Testing-Practice/calculator/calculator.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="capitalize">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="capitalize.js" path="/home/kaduri/repos/Testing-Practice/capitalize/capitalize.js">
+        <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="22" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="14" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="30" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="reverseString">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="reverseString.js" path="/home/kaduri/repos/Testing-Practice/reverseString/reverseString.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
